@@ -1,7 +1,7 @@
 # Banchist:
 
-Un'esperienza bancaria virtuale. Si tratta di un progetto ideato da Jonas Schmedtmann per praticare la manipolazione del DOM e l'interazione utente.
-Ho rifatto tutta la parte logica del progetto per dimostrare le mie competenze su JavaScript. Ho sviluppato l'idea iniziale aggiungendo un form di login. Ho modificato anche alcuni aspetti di HTML e di CSS.
+Banchist è un'esperienza bancaria virtuale. Si tratta di un progetto ideato da Jonas Schmedtmann per praticare la manipolazione del DOM e l'interazione utente.
+Ho rifatto tutta la parte logica del progetto per dimostrare le mie competenze su JavaScript. Ho sviluppato l'idea iniziale, aggiungendo un form di login. Ho modificato anche alcuni aspetti di HTML e di CSS.
 
 # Descrizione:
 
@@ -10,7 +10,7 @@ Il progetto prevede tre utenti distinti. La pagina viene personalizzata in base 
 # Funzionalità:
 
 1. Accesso (Login)
-2. Trasferimento di denaro ad un altro conto
+2. Trasferimento del denaro ad un altro conto
 3. Ottenere prestiti
 4. Chiudere (eliminare) l'account
 
