@@ -7,6 +7,8 @@ Ho rifatto tutta la parte logica del progetto per dimostrare le mie competenze s
 
 Il progetto prevede tre utenti distinti. La pagina viene personalizzata in base alla località dell’utente che accede. Ad esempio, il primo utente con locale 'fa-IR', e le credenziali user:mk e pass:1111, visualizza la pagina in persiano, mentre il secondo, per esempio, con locale 'en-US', vedrà l'intera pagina in inglese.
 
+<https://banchist.netlify.app/>
+
 # Funzionalità:
 
 1. Accesso (Login)
@@ -30,9 +32,7 @@ Il progetto prevede tre utenti distinti. La pagina viene personalizzata in base 
 
 # Linguaggi di sviluppo:
 
-HTML
-CSS
-Vanilla JavaScript
+HTML, CSS, Vanilla JavaScript
 
 # Rappresentazioni Grafiche:
 
