@@ -3,11 +3,11 @@
 Banchist è un'esperienza bancaria virtuale. Si tratta di un progetto ideato da Jonas Schmedtmann per praticare la manipolazione del DOM e l'interazione utente.
 Ho rifatto tutta la parte logica del progetto per dimostrare le mie competenze su JavaScript. Ho sviluppato l'idea iniziale, aggiungendo un form di accesso. Ho modificato anche alcuni aspetti di HTML e di CSS.
 
+<https://banchist.netlify.app/>
+
 # Descrizione:
 
 Il progetto prevede tre utenti distinti. La pagina viene personalizzata in base alla località dell’utente che accede. Ad esempio, il primo utente con locale 'fa-IR', e le credenziali user:mk e pass:1111, visualizza la pagina in persiano, mentre il secondo, per esempio: con locale 'en-US', vedrà l'intera pagina in inglese.
-
-<https://banchist.netlify.app/>
 
 # Funzionalità:
 
