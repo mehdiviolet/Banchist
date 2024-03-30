@@ -7,7 +7,7 @@ Ho rifatto tutta la parte logica del progetto per dimostrare le mie competenze s
 
 # Descrizione:
 
-Il progetto prevede tre utenti distinti. La pagina viene personalizzata in base alla località dell’utente che accede. Ad esempio, il primo utente con locale 'fa-IR' e le credenziali user: mk e password:1111, visualizza la pagina in persiano, mentre il secondo, per esempio: con locale 'en-US', vedrà l'intera pagina in inglese.
+Il progetto prevede tre utenti distinti. La pagina viene personalizzata in base alla località dell’utente che accede. Per esempio, il primo utente con locale 'fa-IR' e le credenziali user: mk e password:1111, visualizza la pagina in persiano, mentre il secondo, per esempio: con locale 'en-US', vedrà l'intera pagina in inglese.
 
 # Funzionalità:
 
