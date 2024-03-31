@@ -18,15 +18,15 @@ Il progetto prevede tre utenti distinti. La pagina viene personalizzata in base 
 
 # Le credenziali:
 
-    Primo utente:
+    primo utente:
     username: mk
     Password: 1111
 
-    Secondo utente:
+    secondo utente:
     username: tw
     Password: 2222
 
-    Terzo utente:
+    terzo utente:
     username: jp
     Password: 1111
 
