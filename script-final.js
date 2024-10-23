@@ -28,7 +28,7 @@ const account1 = {
 
 const account2 = {
   owner: 'Tom Waits',
-  movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
+  movements: [5000, 3400, -150, -790, -3220, -1000, 8500, -30],
   interestRate: 1.5,
   pin: 2222,
 
